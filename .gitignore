@@ -1,0 +1,18 @@
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do Jupyter Notebook / Kaggle
+.ipynb_checkpoints/
+
+# Arquivos de dados pesados (Tensores salvos pelo seu código)
+*.npz
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos de sistema operacional (Mac/Windows)
+.DS_Store
+Thumbs.db
