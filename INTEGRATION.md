@@ -15,9 +15,15 @@ O ambiente de execução da Blip (seja local, Docker ou cluster Kubernetes) deve
 Para testes iniciais e pipelines CI/CD, o repositório pode ser clonado e as dependências instaladas via `pip`:
 
 ```bash
-git clone [https://github.com/fcscardia/cardia-scanner.git](https://github.com/fcscardia/cardia-scanner.git)
+git clone https://github.com/fcscardia/cardia-scanner.git
 cd cardia-scanner
 pip install -r requirements.txt
+```
+## 3. Exemplo Prático de Integração Base
+
+O módulo `cardia_scanner.py` foi desenhado para ser acoplado sem causar fricção na pipeline de inferência existente. Abaixo, o fluxo de inicialização:
+
+```python
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from cardia_scanner import CardiaTensorScanner
