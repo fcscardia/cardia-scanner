@@ -1,6 +1,6 @@
 # CARDIA Scanner (v0.1)
 
-Framework de governança semântica e interpretabilidade para modelos de linguagem (LLMs), desenvolvido para a PoC CARDIA | Blip.
+Framework de governança semântica e interpretabilidade para modelos de linguagem (LLMs), desenvolvido para a PoC CARDIA.
 
 ## Funcionalidades da v0.1
 * Extração otimizada de ativações latentes (`CardiaTensorScanner`).
