@@ -1,6 +1,3 @@
-# Versões em que o código foi executado (Kaggle, novembro/2026):
-# torch 2.11, transformers 5.20.2, scikit-learn 1.6.1, numpy 2.1.3
-# Versões anteriores não foram testadas.
 torch>=2.0.0
 transformers>=5.0.0
 scikit-learn>=1.2.0
