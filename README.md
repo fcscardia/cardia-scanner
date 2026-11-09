@@ -1,12 +1,12 @@
 # CARDIA Scanner (v0.1)
 
-Código de referência da prova de conceito **CARDIA | Blip**. É **código de pesquisa, não de produção**.
+Código de referência da prova de conceito **CARDIA | Prospect**. É **código de pesquisa, não de produção**.
 
 ## O que é
 
 Uma ferramenta para ler os "estados internos" (ativações) de um modelo de linguagem de pesos abertos e testar se esses sinais ajudam a identificar quando o modelo **concorda indevidamente** com uma afirmação do usuário, por exemplo sob pressão ou insistência.
 
-O CARDIA é uma **hipótese de pesquisa**, não uma solução comprovada. Este repositório existe para que a hipótese possa ser testada e criticada por outras pessoas.
+O CARDIA é uma **hipótese de pesquisa**, não uma solução comprovada. Este repositório existe para que a hipótese possa ser testada.
 
 ## O que o código faz
 
