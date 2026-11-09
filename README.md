@@ -1,6 +1,6 @@
 # CARDIA Scanner (v0.1)
 
-Código de referência da prova de conceito **CARDIA | Prospect**. É **código de pesquisa, não de produção**.
+Código de referência da prova de conceito **CARDIA**. É **código de pesquisa, não de produção**.
 
 ## O que é
 
